@@ -1,2 +1,5 @@
-# pereira-info
-Just creating my own repo 
+# Welcome to my profile! :P 👋🏻
+
+Hi! I´m Carlos, I love creating projects, when I have the time for do it and share with u how to do the same. Hope u find userful my public repos. You can also find videos and articles about software development and product management.
+
+
